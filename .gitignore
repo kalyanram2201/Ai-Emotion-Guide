@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+pro/
+venv/
+
+# Models
+models/
+
+# Outputs
+outputs/
+
+# Data files
+data/
+
+# OS
+.DS_Store
+Thumbs.db
